@@ -3,12 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvlionxz&label=Profile%20views&color=0e75b6&style=flat" alt="rvlionxz" /> </p>
 
+- 🔭 I’m currently working on **We Can Dev**
+
 - 🌱 I’m currently learning **Kotlin and Flutter**
+
+- 👯 I’m looking to collaborate on **Mobile App Project**
+
+- 👨‍💻 All of my projects are available at [rvlionxz.github.io](rvlionxz.github.io)
+
+- 📫 How to reach me **rvlionxz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/reval-maulidan-8bbb12298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reval-maulidan-8bbb12298/" height="30" width="40" /></a>
 <a href="https://instagram.com/rvlmldn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rvlmldn" height="30" width="40" /></a>
+<a href="https://discord.gg/970656504250265640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="970656504250265640" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
